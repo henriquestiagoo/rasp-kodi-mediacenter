@@ -12,7 +12,7 @@ Equipament
 LibreELEC/OpenELEC Install
 ---------------------------
 
-* Download libreELEC/OpenELEC image according the rasp version: https://libreelec.tv/downloads/
+* Download libreELEC/OpenELEC image according the pi version: https://libreelec.tv/downloads/
 * Unzip libreELEC/OpenELEC image
 * Write the image on the sd card. [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) is a good solution. 
 * Place the card on the raspberry pi card slot
@@ -44,7 +44,7 @@ The repositories will give access to add-ons that aren't available on the offici
     
 From now on, you can add whatever repository you want. When you found a repository you want to install, go to:
 
-    System > Files manager > Add source > (enter url and choose a name to that repo) > Add files source
+    System > Files manager > Add source > (enter url and choose a name to represent that repo) > Add files source
     
 Now you have to go to:
 
@@ -53,8 +53,6 @@ Now you have to go to:
 
 Plexus (Acestream streams):
 ---------------------------
-
-![Plexus logo](http://redeneobux.com/wp-content/uploads/2015/10/rsz_plexus_addon_plugin_xbmc_kodi.png)
 
 * Install Plexus add-on on raspberry pi
 * Enable ssh
