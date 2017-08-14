@@ -54,6 +54,8 @@ Now you have to go to:
 Plexus (Acestream streams):
 ---------------------------
 
+![Plexus logo](http://redeneobux.com/wp-content/uploads/2015/10/rsz_plexus_addon_plugin_xbmc_kodi.png)
+
 * Install Plexus add-on on raspberry pi
 * Enable ssh
 * Install [PuTTY](http://www.putty.org/) on your pc. You will need to access your rasp remotely through the pc. For that, you need to know what is the rasp ip address. If you haven't configured a static ip address or don't remember the rasp ip, go to `System > System info > (check ip address)` to check the rasp ip address.   
