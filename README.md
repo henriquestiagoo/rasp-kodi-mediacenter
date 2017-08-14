@@ -56,24 +56,24 @@ Plexus (Acestream streams):
 
 * Install Plexus add-on on raspberry pi
 * Enable ssh
-* Install [PuTTY](http://www.putty.org/) on your pc. You will need to access your rasp remotely through the pc. For that, you need to know what's the rasp ip address. If you haven't configured a static ip address or don't remember the rasp ip, go to `System > System info > (check ip address)` to check th rasp ip address.   
+* Install [PuTTY](http://www.putty.org/) on your pc. You will need to access your rasp remotely through the pc. For that, you need to know what is the rasp ip address. If you haven't configured a static ip address or don't remember the rasp ip, go to `System > System info > (check ip address)` to check the rasp ip address.   
 
 After installing puTTY (on local machine), remotely access to your pi placing the Pi ip address in Host Name and the number 22 in the port.
 Username and passwords can be different depending the OS. Check below what credentials to use:
 
 OSMC:
-username: osmc
-password: osmc
+* username: osmc
+* password: osmc
 
 OpenELEC:
-username: root
-password: openelec
+* username: root
+* password: openelec
 
 LibreELEC:
-username: root
-password: libreelec
+* username: root
+* password: libreelec
 
-Them you must enter the following commands:
+Then, you must enter the following commands:
 
     $ cd ~/.kodi/userdata/addon_data/program.plexus
     $ sudo rm -r acestream
