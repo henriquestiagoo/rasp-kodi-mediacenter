@@ -12,7 +12,7 @@ Equipament
 LibreELEC/OpenELEC Install
 ---------------------------
 
-* Download libreELEC/OpenELEC image according the pi version: https://libreelec.tv/downloads/
+* Download [libreELEC]( https://libreelec.tv/downloads/)/[OpenELEC](http://openelec.tv/get-openelec) image according the pi version:
 * Unzip libreELEC/OpenELEC image
 * Write the image on the sd card. [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) is a good solution. 
 * Place the card on the raspberry pi card slot
