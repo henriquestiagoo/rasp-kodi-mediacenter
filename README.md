@@ -22,7 +22,7 @@ HDMI-CEC
 
 To enable libreELEC/OpenELEC support (for remote control), go to:
     
-    System > System definitions > Input > Peripherals > HDMI-CEC/CEC Adapter (enable)
+    System > System Settings > Input > Peripherals > HDMI-CEC/CEC Adapter (enable)
  
  You can now use a generic remote control to navigate through Kodi menus.
     
@@ -40,7 +40,7 @@ Repositories configuration
 
 The repositories will give access to add-ons that aren't available on the official repositories. There's a step required to be able to install add-ons from unknown sources. Go to:
 
-    System > System Definitions > Add-ons > and activate > Unknown sources
+    System > System Settings > Add-ons > and activate > Unknown sources
     
 From now on, you can add whatever repository you want. When you found a repository you want to install, go to:
 
